@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I'm currently learning **Development Full-Stack**
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/000/227/854/original/female-developer-vector.jpg">
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +25,7 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/008/507/575/original/programming-concept-illustration-vector.jpg" >
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
