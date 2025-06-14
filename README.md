@@ -5,7 +5,7 @@ Hi! I'm Ronny Rodríguez, a junior software developer eager to grow in the tech 
 
 I'm comfortable working with SQL databases, designing and managing data efficiently to support my projects.
 
-Currently, I'm focused on deepening my understanding of software architecture, secure coding practices, and web development frameworks like **ASP.NET Core**.
+Currently, I'm focused on deepening my understanding of software architecture, secure coding practices, and web development frameworks like **ASP.NET**.
 
 I am passionate about writing clean, maintainable code and constantly improving my skills by learning new technologies and best practices.
 
