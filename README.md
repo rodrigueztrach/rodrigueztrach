@@ -1,6 +1,5 @@
 # rodrigueztrach
 
-# rodrigueztrach
 
 Hi! I'm Ronny Rodríguez, a junior software developer eager to grow in the tech world. I have hands-on experience building both desktop and web applications.
 
