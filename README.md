@@ -12,6 +12,8 @@ C#
 Python
 SQL
 
+📊 Most Used Languages
+Mostrar imagen
 🌐 Web Development
 Frontend
 
