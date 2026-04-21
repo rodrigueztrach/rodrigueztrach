@@ -38,6 +38,7 @@
 ### Backend
 - Node.js
 - Express.js
+- Spring Boot
 - ASP.NET
 - Apollo Server (GraphQL)
 
