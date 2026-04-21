@@ -1,6 +1,6 @@
 #  Hi! I'm Ronny Rodríguez
 
-<h3>A junior software developer eager to grow in the tech world. I have hands-on experience building both desktop and web applications.</h3>
+<h3>A software developer eager to grow in the tech world. I have hands-on experience building both desktop and web applications.</h3>
 
 <p>I'm comfortable working with SQL databases, designing and managing data efficiently to support my projects.</p>
 
